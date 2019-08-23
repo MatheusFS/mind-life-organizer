@@ -1,0 +1,1 @@
+﻿SELECT id,acao,inputdate,DATEDIFF(SECOND, GETDATE(), FORMAT(deadline, 'yyyy-MM-dd HH:mm:ss'))/60 AS exp,source,type,done FROM timeline

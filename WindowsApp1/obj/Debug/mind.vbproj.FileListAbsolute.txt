@@ -1,0 +1,17 @@
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.vbprojResolveAssemblyReference.cache
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.vbproj.ResolveComReference.cache
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.Form1.resources
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.Resources.resources
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.vbproj.GenerateResource.Cache
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.vbproj.CoreCompileInputs.cache
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\minddb.mdf
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\minddb_log.ldf
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\mind.exe.config
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\mind.exe
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\mind.pdb
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\bin\Debug\mind.xml
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.exe
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.xml
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.pdb
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.compromisso.resources
+C:\Users\MatheusFS\source\repos\WindowsApp1\WindowsApp1\obj\Debug\mind.rotinafixa.resources

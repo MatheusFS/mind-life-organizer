@@ -1,0 +1,3 @@
+﻿SELECT * FROM timeline WHERE done=0 AND DATEDIFF(SECOND, GETDATE(), FORMAT(deadline, 'yyyy-MM-dd HH:mm:ss')) < 86400
+SELECT * FROM timeline WHERE done=0 AND DATEDIFF(SECOND, GETDATE(), FORMAT(deadline, 'yyyy-MM-dd HH:mm:ss')) >= 86400 AND DATEDIFF(SECOND, GETDATE(), FORMAT(deadline, 'yyyy-MM-dd HH:mm:ss')) < 604800
+SELECT * FROM timeline WHERE done=0 AND DATEDIFF(SECOND, GETDATE(), FORMAT(deadline, 'yyyy-MM-dd HH:mm:ss')) >= 604800
